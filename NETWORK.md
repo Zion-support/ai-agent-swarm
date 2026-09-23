@@ -1,10 +1,11 @@
-# AI Agent Swarm
+# 🔗 Zion App Network
 
-Coordinate multiple AI agents as a unified swarm for complex tasks.
+This app is part of the **Zion App Network** — 550+ interlinked AI & IT tools by [Zion Tech Group](https://ziontechgroup.com).
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [agents](https://github.com/Zion-support/agents)
-- Related: [ai-agent-fleet](https://github.com/Zion-support/ai-agent-fleet) · [ai-agent-swarm-v2](https://github.com/Zion-support/ai-agent-swarm-v2) · [zion-ai-pr-review-swarm](https://github.com/Zion-support/zion-ai-pr-review-swarm) · [zion-ai-agent-builder](https://github.com/Zion-support/zion-ai-agent-builder) · [zion-agent-handoff-flow](https://github.com/Zion-support/zion-agent-handoff-flow)
+- 🏠 Homepage: https://ziontechgroup.com
+- 📂 Full catalog: https://ziontechgroup.com/apps/
+- 📢 Network overview: https://ziontechgroup.com/app-network/
+- 💻 GitHub: https://github.com/Zion-support
+- ✉️ commercial@ziontechgroup.com
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+**Related apps:** [ai-agent-swarm-v2](https://github.com/Zion-support/ai-agent-swarm-v2) · [ai-agent-fleet](https://github.com/Zion-support/ai-agent-fleet) · [zion-agentforge](https://github.com/Zion-support/zion-agentforge)
